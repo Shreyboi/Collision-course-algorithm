@@ -1,2 +1,2 @@
-# Collision-course-algorithm
-created using javascript and vsc
+# collisionAlgorithm
+Algorithm to detect collision between two objects
